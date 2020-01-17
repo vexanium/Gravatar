@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    overflow-x:hidden;
+  }
+  
+  html {
+    display: table;
+    margin: auto;
+  }
+  
+  body {
+    display: table-cell;
+    vertical-align: middle;
+    padding-bottom:5em;
+    padding-top:1em;
+    color: #555;
+  
+    background: url('./bg.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;    
+  }
+
+  h1,h2,h3 { padding:0.1em; margin:0.1em; }
+
+  .spacer {
+    padding:0.5em;
+  }
+
+  .center {
+    text-align:center;
+    width: 100%;
+  }
+
+  .container {
+    width:320px;
+    max-width:320px;
+    text-align:center;
+  }
