@@ -1,6 +1,6 @@
 # Gravatar
 [DApp](https://github.com/vexanium/DApps) for storing Avatars by utilizing [IPFS](https://ipfs.io/) developed using [ReactJS](https://reactjs.org/)  
-Credit by **Damos Anggara**, [https://trusti.id/](https://trusti.id/)
+Credit by **Damos Anggara**, [trusti.id](https://trusti.id/)
 
 ## Installation
 Below the step by step installation procedure to activate the FrontEnd App
