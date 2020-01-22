@@ -59,7 +59,7 @@ or on Win/Mac Desktop via browser:
 
 Your avatar will be uploaded to IPFS, the transaction will be recorded to our blockchain.  
 Here how you can check the output:  
-Check the transaction at **https://explorer.vexanium.com/account/yourvexaccount**  
+Check the transaction at ```https://explorer.vexanium.com/account/{yourvexaccount}```  
 You will see something just like this:  
 ![](gravatarTransactions.jpg)  
 Click on the magnifying glass icon, then copy the **photo_hash value**, as in this example it is ```QmcVJFZNH6KvBK8FoKpiVCL391aGA15fmppBcse7bMrEKk```  
