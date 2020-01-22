@@ -1,5 +1,6 @@
 # Gravatar
-[DApp](https://github.com/vexanium/DApps) for storing Avatars by utilizing [IPFS](https://ipfs.io/) developed using [ReactJS](https://reactjs.org/)
+[DApp](https://github.com/vexanium/DApps) for storing Avatars by utilizing [IPFS](https://ipfs.io/) developed using [ReactJS](https://reactjs.org/)  
+Credit by **Damos Anggara**, [https://trusti.id/](https://trusti.id/)
 
 ## Installation
 Below the step by step installation procedure to activate the FrontEnd App
@@ -66,4 +67,5 @@ Click on the magnifying glass icon, then copy the **photo_hash value**, as in th
 After that, you can view your uploaded image by pasting the hash to IPFS url
 ```https://cloudflare-ipfs.com/ipfs/{your_photo_hash}```  
 
-In this example, it's [https://cloudflare-ipfs.com/ipfs/QmcVJFZNH6KvBK8FoKpiVCL391aGA15fmppBcse7bMrEKk](https://cloudflare-ipfs.com/ipfs/QmcVJFZNH6KvBK8FoKpiVCL391aGA15fmppBcse7bMrEKk)
+In this example, it's [https://cloudflare-ipfs.com/ipfs/QmcVJFZNH6KvBK8FoKpiVCL391aGA15fmppBcse7bMrEKk](https://cloudflare-ipfs.com/ipfs/QmcVJFZNH6KvBK8FoKpiVCL391aGA15fmppBcse7bMrEKk)  
+You can use this link for photo sharing, image resource for your website, or just storing it as an online backup, simply said, for anything you want. 
